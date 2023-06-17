@@ -1,0 +1,12 @@
+.App {
+  margin-top: 10%;
+  margin-left: 20%;
+  margin-right: 10%;
+  padding: 3%;
+  text-align: center;
+  background-color: aquamarine;
+  border: 2px solid black;
+}
+body{
+  background-color: black;
+}
